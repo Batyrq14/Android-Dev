@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itemsList" type="id" />
+    <item name="itemsList1" type="id" />
+    <item name="removeIngredientsTextView" type="id" />
+</resources>
